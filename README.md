@@ -2,7 +2,7 @@
 
 Welcome to **Frink**!
 
-Invite link: https://discord.com/oauth2/authorize?client_id=1388298395503952065
+[Invite Frink to server](https://discord.com/oauth2/authorize?client_id=1388298395503952065)
 
 By using this Discord bot, you agree to the [Terms and Conditions](./TERMS.md) and the [Privacy Policy](./PRIVACY.md).
 
