@@ -4,7 +4,6 @@ Welcome to **Frink**!
 
 By using this Discord bot, you agree to the [Terms and Conditions](./TERMS.md) and the [Privacy Policy](./PRIVACY.md).
 
-
 If you would like to help pay for the servers for this bot, it would be greatly appreciated.
 
 You can do so here:  
@@ -68,3 +67,23 @@ Slaps the mentioned user
 
 `!bomb @user`  
 Bombs the mentioned user
+
+---
+
+**Admin Commands**  
+*Commands only Admins can use*
+
+`!sendmessage #channel message`  
+Send a message to a specified channel
+
+`!reactionrole #channel @role emoji Your message here`  
+Create a reaction-role message
+
+`!forcemarry @user @user`  
+Forcefully marry two users
+
+`!forcedivorce @user @user`  
+Forcefully divorce two users
+
+`!purge amount`  
+Mass delete 1-99 messages
